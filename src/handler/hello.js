@@ -5,6 +5,4 @@ async function hello(event, context) {
   };
 }
 
-export const handler = {
-  hello,
-};
+export const handler = hello;
