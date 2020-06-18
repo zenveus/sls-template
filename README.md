@@ -1,6 +1,6 @@
 # zenveus.com: Serverless Framework Template
 
-https://zenveus.com
+http://zenveus.com
 
 ## Why this template
 
